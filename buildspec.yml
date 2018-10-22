@@ -5,4 +5,4 @@ phases:
       - mvn install
 artifacts:
   files:
-    - sample.jar
+    - target/sample.jar
